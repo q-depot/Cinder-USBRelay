@@ -2,12 +2,12 @@
  *  USBRelay.cpp
  *
  *  Created by Andrea Cuius
- *  Nocte Studio Ltd. Copyright 2014 . All rights reserved.
+ *  The MIT License (MIT)
+ *  Copyright (c) 2014 Nocte Studio Ltd.
  *
  *  www.nocte.co.uk
  *
  */
-
 
 #include "USBRelay.h"
 
